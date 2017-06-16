@@ -1,5 +1,5 @@
 # learngit
 fix conflict
 
-you call this fixed?
->>>>>>> feature1
+change made on branch f1
+
