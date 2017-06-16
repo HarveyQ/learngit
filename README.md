@@ -1,5 +1,4 @@
 # learngit
-fix conflict
+change made in branch dev
 
-<<<<<<< HEAD
-change file on master to whatever
+
