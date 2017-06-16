@@ -1,4 +1,4 @@
 # learngit
 fix conflict
 
-changed on master
+merge changes
