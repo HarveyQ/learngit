@@ -1,4 +1,5 @@
 # learngit
 fix conflict
 
-merge changes
+
+>>>>>>> feature1
