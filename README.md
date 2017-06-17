@@ -1,6 +1,6 @@
 # learngit
 
-quick AND simple
+quick & simple
 
 
 
