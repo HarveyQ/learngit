@@ -1,4 +1,4 @@
 # learngit
 
-quick AND simple
+quick and simple
 
