@@ -1,7 +1,2 @@
- learngit
-
-quick and simple
-
-changed again on master, conflict fixing
-
-
+# Learn GitHub
+This repo was created for learning github basics.
